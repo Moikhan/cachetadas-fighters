@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 4d4df3d9c395add4b9955c6a09331268
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 485
+        width: 85
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37edefc29cb4a3749ae238124cdcc261
+      internalID: -1331854169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 484
+        width: 89
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385b60e3d5b6977439b15b72074994c5
+      internalID: 1787806941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 485
+        width: 86
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d31da6688b2e54fb5fba10c5701cdc
+      internalID: 1555620898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 483
+        width: 90
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8df68045c6d0444ae9f21d5e0b69c6
+      internalID: -202404319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 318
+        width: 86
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d7517ec208dd24ea5274a02260b36c
+      internalID: -1983239234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 319
+        width: 68
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9126654b4408ef45a37593dd94d6eec
+      internalID: 2110220029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 321
+        width: 79
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0240686f85c719c4dbb8c1de2eb27150
+      internalID: -513309565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 324
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedf0387e8ab8af479a902293cd9ccb1
+      internalID: -1237563360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_8
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 320
+        width: 86
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33a7e89500ce1941a4534f30c01f2a4
+      internalID: -1086889084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 173
+        width: 86
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd47700840c4e743b73649bf13457af
+      internalID: -1605968121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_10
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 172
+        width: 111
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf8f2252d692a74cb2fee41278758df
+      internalID: -1340810582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 16
+        width: 93
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e906d5b580b0a4f97c4a1b185d0e1d
+      internalID: -632895502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 20
+        width: 113
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10846e0690b161249816c262bad02a2d
+      internalID: 905782322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_1: 1787806941
+      kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_10: -1340810582
+      kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_11: -632895502
+      kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_12: 905782322
+      kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_6: -513309565
+      kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_2: 1555620898
+      kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_0: -1331854169
+      kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_9: -1605968121
+      kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_5: 2110220029
+      kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_7: -1237563360
+      kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_4: -1983239234
+      kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_8: -1086889084
+      kisspng-sprite-mega-man-kirito-2d-computer-graphics-charac-5b0f28df98d743.9471956415277201596261_3: -202404319
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
